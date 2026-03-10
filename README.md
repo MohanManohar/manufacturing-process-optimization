@@ -6,7 +6,8 @@ Predict machine failures and identify optimal operating parameters.
 ## Dataset
 AI4I 2020 Predictive Maintenance Dataset.
 
-Citation 
+Citation:
+Matzka, S. (2020). AI4I 2020 Predictive Maintenance Dataset.
 
 Source:
 UCI Machine Learning Repository.
